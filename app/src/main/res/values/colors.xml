@@ -4,11 +4,10 @@
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
     <color name="white">#FFFFFF</color><!--白色 -->
-    <color name="white_back">#f4f4f4</color><!--白色 -->
+    <color name="background_gray">#e4e4e4</color><!--白色 -->
     <color name="top_back">#363636</color><!--白色 -->
     <color name="bottom_back">#cecdcd</color><!--白色 -->
     <color name="word_color">#848484</color><!--白色 -->
-    <color name="background_gray">#eaeaea</color><!--白色 -->
     <color name="myTransparent">#50000000</color><!--白色 -->
     <color name="gray">#333333</color><!--黑色 -->
     <color name="black">#000000</color><!--黑色 -->
